@@ -17,3 +17,27 @@ header{
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
+
+.button{
+	position: absolute;
+	top: 75.5%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn{
+	border:1px transparent #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	background-color: #00b300;
+	transition: 0.6s ease;
+	
+}
+
+.btn:hover{
+	color: #255784;
+	background: #00b300;
+	box-shadow: 0 0 10px #00b300, 0 0 40px #00b300, 0 0 10px #00b300; 
+	transition-delay: 0.12s;
+}
