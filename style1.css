@@ -20,7 +20,7 @@ header{
 
 .button{
 	position: absolute;
-	top: 75.5%;
+	top: 77.5%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
