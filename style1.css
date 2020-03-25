@@ -41,3 +41,11 @@ header{
 	box-shadow: 0 0 10px #00b300, 0 0 40px #00b300, 0 0 10px #00b300; 
 	transition-delay: 0.12s;
 }
+
+.flowtext{
+position: absolute;
+left: 38%;
+/*right: 30%*/
+bottom: 6%;
+color: #F2DFD9;
+}
